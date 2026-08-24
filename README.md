@@ -1,12 +1,4 @@
-# Hey there 👋
-
-I'm a computer scientist currently focused on JavaScript, working as Software Engineer on X-Team, creating apps, frameworks, design systems and some public APIs on personal projects too.
-
-If you want to talk about technology, message me on social medias 💬
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sandro-motyl/)
-
-npm: https://www.npmjs.com/~smotyl
+hi
 
 <!--
 **smotyl/smotyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
