@@ -10,6 +10,8 @@
 \- 5+ years of international consulting experience<br>
 \- founder of skm tech co.
 
+**languages**: 🇧🇷🇺🇸🇪🇸
+
 <!--
 **smotyl/smotyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
