@@ -1,11 +1,11 @@
 **engenheiro de software bigode grosso (pt-br)**<br>
-\- bacharel em ciencia da computacao<br>
+\- bacharel em ciencia da computacao (2017)<br>
 \- 8+ anos de experiencia<br>
 \- 5+ anos como consultor internacional<br>
 \- fundador da skm tech co.
 
 **big-mustache software engineer (en-us)**<br>
-\- bachelor's degree in computer science<br>
+\- bachelor's degree in computer science (2017)<br>
 \- 8+ years of software engineering experience<br>
 \- 5+ years of international consulting experience<br>
 \- founder of skm tech co.
